@@ -1,0 +1,3 @@
+Me dispuse a ver si buscaba de una forma un poco mas especial compañias que me interesen... aproveche el webscraping con playwright.
+
+Algo simple...
